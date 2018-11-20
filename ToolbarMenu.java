@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author RICKY
+ * @author RIZKY SAPUTRA ZULKARNAIN
  */
 public class ToolbarMenu extends javax.swing.JFrame {
 
